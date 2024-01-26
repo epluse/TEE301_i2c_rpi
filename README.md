@@ -6,7 +6,8 @@
 ![TEE301](./images/TEE301.png) 
 
 
-[![button1](./images/learn-more.png)](https://epluse.com/products/temperature-measurement/temperature-sensing-element/tee301/)   [![button2](./images/data-sheet.png)](https://www.epluse.com/fileadmin/data/product/tee301/datasheet_TEE301.pdf) 
+<!--[![button1](./images/learn-more.png)](https://epluse.com/products/temperature-measurement/temperature-sensing-element/tee301/)   -->
+[![button2](./images/data-sheet.png)](https://www.epluse.com/fileadmin/data/product/tee301/datasheet_TEE301.pdf) 
 
 
 
